@@ -2,4 +2,4 @@
 
 Tobias Cañete: Lider -> Creó el repositorio y merge
 
-Guaymas: ayudante del lider
+Tobias Guaymas: -> Colaborador del lider
