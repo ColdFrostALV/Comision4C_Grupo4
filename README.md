@@ -1,1 +1,3 @@
-# Comision4C_Grupo4
+Tobias Cañete
+Maximo fontenla
+Tobias Cañete - Lider -> Creó el repositorio y merge
