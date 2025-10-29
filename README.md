@@ -1,2 +1,6 @@
 # Comision4C_Grupo4
-Pablo Broczkoski: Colaborador de lider 
+
+Tobias Cañete: Lider -> Creó el repositorio y merge
+
+Tobias Guaymas: -> Colaborador del liderPablo
+Broczkoski: Colaborador de lider 
