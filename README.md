@@ -1,4 +1,4 @@
-# Comision4C_Grupo4Guaymas   
-ayudante del lider
-Tobias Cañete: Lider -> Creó el repositorio y merge
+# Comision4C_Grupo4
 
+Tobias Cañete: Lider -> Creó el repositorio y merge
+Guaymas: ayudante del lider
